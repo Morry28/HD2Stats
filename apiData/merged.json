@@ -15,7 +15,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 212
+      "players": 230
     },
     "planetAddition": {
       "index": 0,
@@ -1209,7 +1209,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 4.1666665,
-      "players": 68
+      "players": 90
     },
     "planetAddition": {
       "index": 34,
@@ -2248,7 +2248,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 0,
-      "players": 65
+      "players": 63
     },
     "planetAddition": {
       "index": 64,
@@ -2655,7 +2655,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 4.1666665,
-      "players": 22
+      "players": 26
     },
     "planetAddition": {
       "index": 75,
@@ -2769,7 +2769,7 @@
       "owner": 2,
       "health": 1000000,
       "regenPerSecond": 5.5555553,
-      "players": 2378
+      "players": 2449
     },
     "planetAddition": {
       "index": 78,
@@ -2790,7 +2790,7 @@
       "planetIndex": 78,
       "name": "Crimsica",
       "faction": "Terminids",
-      "players": 2378,
+      "players": 2449,
       "health": 1000000,
       "maxHealth": 1000000,
       "percentage": 0,
@@ -2822,7 +2822,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 6.9444447,
-      "players": 2
+      "players": 1
     },
     "planetAddition": {
       "index": 79,
@@ -2863,7 +2863,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 2.7777777,
-      "players": 2
+      "players": 3
     },
     "planetAddition": {
       "index": 80,
@@ -3826,7 +3826,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 2
+      "players": 0
     },
     "planetAddition": {
       "index": 107,
@@ -3991,7 +3991,7 @@
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 2.7777777,
-      "players": 13
+      "players": 12
     },
     "planetAddition": {
       "index": 112,
@@ -4023,9 +4023,9 @@
     "statusAddition": {
       "index": 113,
       "owner": 3,
-      "health": 614268,
+      "health": 605586,
       "regenPerSecond": 4.1666665,
-      "players": 19031
+      "players": 19390
     },
     "planetAddition": {
       "index": 113,
@@ -4046,10 +4046,10 @@
       "planetIndex": 113,
       "name": "Aesir Pass",
       "faction": "Automatons",
-      "players": 19031,
-      "health": 614268,
+      "players": 19390,
+      "health": 605586,
       "maxHealth": 1000000,
-      "percentage": 38.5732,
+      "percentage": 39.441399999999994,
       "defense": false,
       "biome": {
         "slug": "swamp",
@@ -4108,7 +4108,7 @@
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 2.7777777,
-      "players": 0
+      "players": 2
     },
     "planetAddition": {
       "index": 115,
@@ -4366,7 +4366,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 5.5555553,
-      "players": 16
+      "players": 10
     },
     "planetAddition": {
       "index": 122,
@@ -4430,7 +4430,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 11
+      "players": 5
     },
     "planetAddition": {
       "index": 124,
@@ -4471,7 +4471,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 0,
-      "players": 2
+      "players": 4
     },
     "planetAddition": {
       "index": 125,
@@ -4513,7 +4513,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 6.9444447,
-      "players": 5
+      "players": 8
     },
     "planetAddition": {
       "index": 126,
@@ -4616,7 +4616,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 4.1666665,
-      "players": 15
+      "players": 16
     },
     "planetAddition": {
       "index": 129,
@@ -5413,7 +5413,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 0
+      "players": 1
     },
     "planetAddition": {
       "index": 152,
@@ -5453,7 +5453,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 2
+      "players": 1
     },
     "planetAddition": {
       "index": 153,
@@ -5494,7 +5494,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 6
+      "players": 5
     },
     "planetAddition": {
       "index": 154,
@@ -5530,7 +5530,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 5
+      "players": 3
     },
     "planetAddition": {
       "index": 155,
@@ -5567,7 +5567,7 @@
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 2.7777777,
-      "players": 356
+      "players": 372
     },
     "planetAddition": {
       "index": 156,
@@ -5592,7 +5592,7 @@
       "planetIndex": 156,
       "name": "Charbal-VII",
       "faction": "Automatons",
-      "players": 356,
+      "players": 372,
       "health": 1000000,
       "maxHealth": 1000000,
       "percentage": 0,
@@ -5624,7 +5624,7 @@
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 2.7777777,
-      "players": 0
+      "players": 2
     },
     "planetAddition": {
       "index": 157,
@@ -5661,7 +5661,7 @@
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 2.7777777,
-      "players": 1
+      "players": 4
     },
     "planetAddition": {
       "index": 158,
@@ -5736,7 +5736,7 @@
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 2.7777777,
-      "players": 10
+      "players": 3
     },
     "planetAddition": {
       "index": 160,
@@ -6028,7 +6028,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 4.1666665,
-      "players": 5
+      "players": 6
     },
     "planetAddition": {
       "index": 168,
@@ -6068,7 +6068,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 0,
-      "players": 7088
+      "players": 7176
     },
     "planetAddition": {
       "index": 169,
@@ -6089,16 +6089,16 @@
       "planetIndex": 169,
       "name": "Estanu",
       "faction": "Terminids",
-      "players": 7088,
-      "health": 331224,
+      "players": 7176,
+      "health": 326934,
       "maxHealth": 450000,
-      "percentage": 26.394666666666666,
+      "percentage": 27.348,
       "defense": true,
       "biome": {
         "slug": "icemoss",
         "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
       },
-      "expireDateTime": 1720857281.071
+      "expireDateTime": 1720857280.993
     }
   },
   {
@@ -6120,7 +6120,7 @@
       "owner": 2,
       "health": 1000000,
       "regenPerSecond": 5.5555553,
-      "players": 1142
+      "players": 1244
     },
     "planetAddition": {
       "index": 170,
@@ -6141,7 +6141,7 @@
       "planetIndex": 170,
       "name": "Fori Prime",
       "faction": "Terminids",
-      "players": 1142,
+      "players": 1244,
       "health": 1000000,
       "maxHealth": 1000000,
       "percentage": 0,
@@ -6171,7 +6171,7 @@
       "owner": 2,
       "health": 1000000,
       "regenPerSecond": 4.1666665,
-      "players": 2211
+      "players": 2236
     },
     "planetAddition": {
       "index": 171,
@@ -6184,7 +6184,7 @@
       "planetIndex": 171,
       "name": "Gacrux",
       "faction": "Terminids",
-      "players": 2211,
+      "players": 2236,
       "health": 1000000,
       "maxHealth": 1000000,
       "percentage": 0,
@@ -6249,7 +6249,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 4.1666665,
-      "players": 214
+      "players": 189
     },
     "planetAddition": {
       "index": 173,
@@ -7027,7 +7027,7 @@
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 6.9444447,
-      "players": 7
+      "players": 10
     },
     "planetAddition": {
       "index": 194,
@@ -7064,7 +7064,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 1
+      "players": 0
     },
     "planetAddition": {
       "index": 195,
@@ -7105,7 +7105,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 4
+      "players": 0
     },
     "planetAddition": {
       "index": 196,
@@ -7185,7 +7185,7 @@
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 5.5555553,
-      "players": 24
+      "players": 22
     },
     "planetAddition": {
       "index": 198,
@@ -7223,7 +7223,7 @@
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 8.333333,
-      "players": 1
+      "players": 3
     },
     "planetAddition": {
       "index": 199,
@@ -7254,9 +7254,9 @@
     "statusAddition": {
       "index": 200,
       "owner": 3,
-      "health": 996456,
+      "health": 996443,
       "regenPerSecond": 2.7777777,
-      "players": 5420
+      "players": 5742
     },
     "planetAddition": {
       "index": 200,
@@ -7277,10 +7277,10 @@
       "planetIndex": 200,
       "name": "Matar Bay",
       "faction": "Automatons",
-      "players": 5420,
-      "health": 996456,
+      "players": 5742,
+      "health": 996443,
       "maxHealth": 1000000,
-      "percentage": 0.35439999999999827,
+      "percentage": 0.3556999999999988,
       "defense": false,
       "biome": {
         "slug": "highlands",
@@ -7308,7 +7308,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 37
+      "players": 30
     },
     "planetAddition": {
       "index": 201,
@@ -7384,7 +7384,7 @@
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 5.5555553,
-      "players": 17
+      "players": 18
     },
     "planetAddition": {
       "index": 203,
@@ -7424,7 +7424,7 @@
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 2.7777777,
-      "players": 2
+      "players": 0
     },
     "planetAddition": {
       "index": 204,
@@ -7677,7 +7677,7 @@
       "owner": 2,
       "health": 1000000,
       "regenPerSecond": 5.5555553,
-      "players": 969
+      "players": 967
     },
     "planetAddition": {
       "index": 211,
@@ -7698,7 +7698,7 @@
       "planetIndex": 211,
       "name": "Nivel 43",
       "faction": "Terminids",
-      "players": 969,
+      "players": 967,
       "health": 1000000,
       "maxHealth": 1000000,
       "percentage": 0,
@@ -7726,7 +7726,7 @@
       "owner": 2,
       "health": 1000000,
       "regenPerSecond": 4.1666665,
-      "players": 14
+      "players": 7
     },
     "planetAddition": {
       "index": 212,
@@ -7800,7 +7800,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 8.333333,
-      "players": 13
+      "players": 18
     },
     "planetAddition": {
       "index": 214,
@@ -8670,7 +8670,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 1
+      "players": 0
     },
     "planetAddition": {
       "index": 238,
@@ -8856,7 +8856,7 @@
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 2.7777777,
-      "players": 222
+      "players": 223
     },
     "planetAddition": {
       "index": 243,
@@ -8881,7 +8881,7 @@
       "planetIndex": 243,
       "name": "Vandalon IV",
       "faction": "Automatons",
-      "players": 222,
+      "players": 223,
       "health": 1000000,
       "maxHealth": 1000000,
       "percentage": 0,
@@ -8912,7 +8912,7 @@
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 2.7777777,
-      "players": 5
+      "players": 8
     },
     "planetAddition": {
       "index": 244,
@@ -8950,7 +8950,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 2.7777777,
-      "players": 7
+      "players": 10
     },
     "planetAddition": {
       "index": 245,
@@ -8992,7 +8992,7 @@
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 5.5555553,
-      "players": 484
+      "players": 507
     },
     "planetAddition": {
       "index": 246,
@@ -9017,7 +9017,7 @@
       "planetIndex": 246,
       "name": "Vega Bay",
       "faction": "Automatons",
-      "players": 484,
+      "players": 507,
       "health": 1000000,
       "maxHealth": 1000000,
       "percentage": 0,
@@ -9114,7 +9114,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 123
+      "players": 122
     },
     "planetAddition": {
       "index": 249,
@@ -9445,7 +9445,7 @@
       "owner": 2,
       "health": 1000000,
       "regenPerSecond": 8.333333,
-      "players": 0
+      "players": 1
     },
     "planetAddition": {
       "index": 258,
@@ -9486,7 +9486,7 @@
       "owner": 2,
       "health": 1000000,
       "regenPerSecond": 4.1666665,
-      "players": 1
+      "players": 2
     },
     "planetAddition": {
       "index": 259,
