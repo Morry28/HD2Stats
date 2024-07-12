@@ -1,7 +1,7 @@
 {
   "warId": 801,
-  "time": 13131000,
-  "impactMultiplier": 0.0807192,
+  "time": 13131660,
+  "impactMultiplier": 0.079404145,
   "storyBeatId32": 0,
   "planetStatus": [
     {
@@ -9,7 +9,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 230
+      "players": 231
     },
     {
       "index": 1,
@@ -247,7 +247,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 4.1666665,
-      "players": 90
+      "players": 82
     },
     {
       "index": 35,
@@ -457,7 +457,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 0,
-      "players": 63
+      "players": 74
     },
     {
       "index": 65,
@@ -534,7 +534,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 4.1666665,
-      "players": 26
+      "players": 27
     },
     {
       "index": 76,
@@ -555,21 +555,21 @@
       "owner": 2,
       "health": 1000000,
       "regenPerSecond": 5.5555553,
-      "players": 2449
+      "players": 2382
     },
     {
       "index": 79,
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 6.9444447,
-      "players": 1
+      "players": 4
     },
     {
       "index": 80,
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 2.7777777,
-      "players": 3
+      "players": 4
     },
     {
       "index": 81,
@@ -758,7 +758,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 0
+      "players": 2
     },
     {
       "index": 108,
@@ -798,9 +798,9 @@
     {
       "index": 113,
       "owner": 3,
-      "health": 605586,
+      "health": 600760,
       "regenPerSecond": 4.1666665,
-      "players": 19390
+      "players": 19870
     },
     {
       "index": 114,
@@ -814,7 +814,7 @@
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 2.7777777,
-      "players": 2
+      "players": 0
     },
     {
       "index": 116,
@@ -877,28 +877,28 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 5
+      "players": 8
     },
     {
       "index": 125,
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 0,
-      "players": 4
+      "players": 3
     },
     {
       "index": 126,
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 6.9444447,
-      "players": 8
+      "players": 6
     },
     {
       "index": 127,
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 6.9444447,
-      "players": 6
+      "players": 9
     },
     {
       "index": 128,
@@ -912,7 +912,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 4.1666665,
-      "players": 16
+      "players": 20
     },
     {
       "index": 130,
@@ -1073,49 +1073,49 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 1
+      "players": 3
     },
     {
       "index": 153,
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 1
+      "players": 0
     },
     {
       "index": 154,
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 5
+      "players": 6
     },
     {
       "index": 155,
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 3
+      "players": 7
     },
     {
       "index": 156,
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 2.7777777,
-      "players": 372
+      "players": 365
     },
     {
       "index": 157,
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 2.7777777,
-      "players": 2
+      "players": 0
     },
     {
       "index": 158,
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 2.7777777,
-      "players": 4
+      "players": 2
     },
     {
       "index": 159,
@@ -1185,28 +1185,28 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 4.1666665,
-      "players": 6
+      "players": 8
     },
     {
       "index": 169,
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 0,
-      "players": 7176
+      "players": 7302
     },
     {
       "index": 170,
       "owner": 2,
       "health": 1000000,
       "regenPerSecond": 5.5555553,
-      "players": 1244
+      "players": 1270
     },
     {
       "index": 171,
       "owner": 2,
-      "health": 1000000,
+      "health": 999991,
       "regenPerSecond": 4.1666665,
-      "players": 2236
+      "players": 2278
     },
     {
       "index": 172,
@@ -1220,7 +1220,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 4.1666665,
-      "players": 189
+      "players": 228
     },
     {
       "index": 174,
@@ -1367,56 +1367,56 @@
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 6.9444447,
-      "players": 10
+      "players": 21
     },
     {
       "index": 195,
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 0
+      "players": 1
     },
     {
       "index": 196,
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 0
+      "players": 1
     },
     {
       "index": 197,
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 4
+      "players": 2
     },
     {
       "index": 198,
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 5.5555553,
-      "players": 22
+      "players": 25
     },
     {
       "index": 199,
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 8.333333,
-      "players": 3
+      "players": 1
     },
     {
       "index": 200,
       "owner": 3,
-      "health": 996443,
+      "health": 996527,
       "regenPerSecond": 2.7777777,
-      "players": 5742
+      "players": 5813
     },
     {
       "index": 201,
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 30
+      "players": 32
     },
     {
       "index": 202,
@@ -1430,7 +1430,7 @@
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 5.5555553,
-      "players": 18
+      "players": 23
     },
     {
       "index": 204,
@@ -1486,14 +1486,14 @@
       "owner": 2,
       "health": 1000000,
       "regenPerSecond": 5.5555553,
-      "players": 967
+      "players": 940
     },
     {
       "index": 212,
       "owner": 2,
       "health": 1000000,
       "regenPerSecond": 4.1666665,
-      "players": 7
+      "players": 12
     },
     {
       "index": 213,
@@ -1507,7 +1507,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 8.333333,
-      "players": 18
+      "players": 23
     },
     {
       "index": 215,
@@ -1528,7 +1528,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 4.1666665,
-      "players": 13
+      "players": 14
     },
     {
       "index": 218,
@@ -1675,7 +1675,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 0
+      "players": 1
     },
     {
       "index": 239,
@@ -1689,56 +1689,56 @@
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 2.7777777,
-      "players": 0
+      "players": 1
     },
     {
       "index": 241,
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 0
+      "players": 1
     },
     {
       "index": 242,
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 2.7777777,
-      "players": 0
+      "players": 1
     },
     {
       "index": 243,
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 2.7777777,
-      "players": 223
+      "players": 219
     },
     {
       "index": 244,
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 2.7777777,
-      "players": 8
+      "players": 4
     },
     {
       "index": 245,
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 2.7777777,
-      "players": 10
+      "players": 3
     },
     {
       "index": 246,
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 5.5555553,
-      "players": 507
+      "players": 502
     },
     {
       "index": 247,
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 5.5555553,
-      "players": 3
+      "players": 4
     },
     {
       "index": 248,
@@ -1752,7 +1752,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 122
+      "players": 111
     },
     {
       "index": 250,
@@ -1815,7 +1815,7 @@
       "owner": 2,
       "health": 1000000,
       "regenPerSecond": 8.333333,
-      "players": 1
+      "players": 0
     },
     {
       "index": 259,
@@ -1974,7 +1974,7 @@
       "planetIndex": 169,
       "eventType": 1,
       "race": 2,
-      "health": 326934,
+      "health": 324220,
       "maxHealth": 450000,
       "startTime": 13094260,
       "expireTime": 13180660,
