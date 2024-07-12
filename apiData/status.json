@@ -1,0 +1,2026 @@
+{
+  "warId": 801,
+  "time": 13127950,
+  "impactMultiplier": 0.07801178,
+  "storyBeatId32": 0,
+  "planetStatus": [
+    {
+      "index": 0,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 189
+    },
+    {
+      "index": 1,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 2,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 3,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 4,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 5,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 6,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 7,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 8,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 9,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 10,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 11,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 12,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 13,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 14,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 15,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 16,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 17,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 18,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 19,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 20,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 21,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 22,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 23,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 24,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 25,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 26,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 27,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 28,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 29,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 30,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 31,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 32,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 33,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 34,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 4.1666665,
+      "players": 71
+    },
+    {
+      "index": 35,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 36,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 37,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 38,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 39,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 40,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 41,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 42,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 43,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 44,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 45,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 46,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 47,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 48,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 49,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 50,
+      "owner": 2,
+      "health": 1000000,
+      "regenPerSecond": 4.1666665,
+      "players": 0
+    },
+    {
+      "index": 51,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 52,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 53,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 54,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 55,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 56,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 57,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 58,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 59,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 60,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 61,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 62,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 63,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 64,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 0,
+      "players": 73
+    },
+    {
+      "index": 65,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 66,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 67,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 68,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 69,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 70,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 71,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 72,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 73,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 74,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 75,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 4.1666665,
+      "players": 21
+    },
+    {
+      "index": 76,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 77,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 2.7777777,
+      "players": 1
+    },
+    {
+      "index": 78,
+      "owner": 2,
+      "health": 1000000,
+      "regenPerSecond": 5.5555553,
+      "players": 2230
+    },
+    {
+      "index": 79,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 6.9444447,
+      "players": 0
+    },
+    {
+      "index": 80,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 2.7777777,
+      "players": 5
+    },
+    {
+      "index": 81,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 82,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 83,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 84,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 85,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 86,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 87,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 88,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 89,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 90,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 91,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 92,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 93,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 94,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 95,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 96,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 97,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 98,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 99,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 100,
+      "owner": 2,
+      "health": 1000000,
+      "regenPerSecond": 4.1666665,
+      "players": 0
+    },
+    {
+      "index": 101,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 102,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 103,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 104,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 105,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 106,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 107,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 2
+    },
+    {
+      "index": 108,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 109,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 110,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 111,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 112,
+      "owner": 3,
+      "health": 1000000,
+      "regenPerSecond": 2.7777777,
+      "players": 10
+    },
+    {
+      "index": 113,
+      "owner": 3,
+      "health": 626409,
+      "regenPerSecond": 4.1666665,
+      "players": 18358
+    },
+    {
+      "index": 114,
+      "owner": 3,
+      "health": 1000000,
+      "regenPerSecond": 2.7777777,
+      "players": 0
+    },
+    {
+      "index": 115,
+      "owner": 3,
+      "health": 1000000,
+      "regenPerSecond": 2.7777777,
+      "players": 1
+    },
+    {
+      "index": 116,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 117,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 118,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 119,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 120,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 121,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 122,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 5.5555553,
+      "players": 11
+    },
+    {
+      "index": 123,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 124,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 4
+    },
+    {
+      "index": 125,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 0,
+      "players": 7
+    },
+    {
+      "index": 126,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 6.9444447,
+      "players": 5
+    },
+    {
+      "index": 127,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 6.9444447,
+      "players": 3
+    },
+    {
+      "index": 128,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 129,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 4.1666665,
+      "players": 13
+    },
+    {
+      "index": 130,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 131,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 132,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 133,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 134,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 135,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 136,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 137,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 138,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 139,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 140,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 141,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 142,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 143,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 144,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 145,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 146,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 147,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 148,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 149,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 150,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 151,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 152,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 1
+    },
+    {
+      "index": 153,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 154,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 2
+    },
+    {
+      "index": 155,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 1
+    },
+    {
+      "index": 156,
+      "owner": 3,
+      "health": 1000000,
+      "regenPerSecond": 2.7777777,
+      "players": 365
+    },
+    {
+      "index": 157,
+      "owner": 3,
+      "health": 1000000,
+      "regenPerSecond": 2.7777777,
+      "players": 0
+    },
+    {
+      "index": 158,
+      "owner": 3,
+      "health": 1000000,
+      "regenPerSecond": 2.7777777,
+      "players": 6
+    },
+    {
+      "index": 159,
+      "owner": 3,
+      "health": 1000000,
+      "regenPerSecond": 2.7777777,
+      "players": 0
+    },
+    {
+      "index": 160,
+      "owner": 3,
+      "health": 1000000,
+      "regenPerSecond": 2.7777777,
+      "players": 3
+    },
+    {
+      "index": 161,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 162,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 163,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 164,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 165,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 166,
+      "owner": 2,
+      "health": 1000000,
+      "regenPerSecond": 4.1666665,
+      "players": 0
+    },
+    {
+      "index": 167,
+      "owner": 2,
+      "health": 1000000,
+      "regenPerSecond": 4.1666665,
+      "players": 0
+    },
+    {
+      "index": 168,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 4.1666665,
+      "players": 4
+    },
+    {
+      "index": 169,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 0,
+      "players": 7021
+    },
+    {
+      "index": 170,
+      "owner": 2,
+      "health": 1000000,
+      "regenPerSecond": 5.5555553,
+      "players": 1083
+    },
+    {
+      "index": 171,
+      "owner": 2,
+      "health": 1000000,
+      "regenPerSecond": 4.1666665,
+      "players": 2195
+    },
+    {
+      "index": 172,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 173,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 4.1666665,
+      "players": 195
+    },
+    {
+      "index": 174,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 175,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 176,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 177,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 178,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 179,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 180,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 181,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 182,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 183,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 184,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 185,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 186,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 187,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 188,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 189,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 190,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 191,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 192,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 193,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 194,
+      "owner": 3,
+      "health": 1000000,
+      "regenPerSecond": 6.9444447,
+      "players": 9
+    },
+    {
+      "index": 195,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 4
+    },
+    {
+      "index": 196,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 2
+    },
+    {
+      "index": 197,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 3
+    },
+    {
+      "index": 198,
+      "owner": 3,
+      "health": 1000000,
+      "regenPerSecond": 5.5555553,
+      "players": 17
+    },
+    {
+      "index": 199,
+      "owner": 3,
+      "health": 1000000,
+      "regenPerSecond": 8.333333,
+      "players": 0
+    },
+    {
+      "index": 200,
+      "owner": 3,
+      "health": 996529,
+      "regenPerSecond": 2.7777777,
+      "players": 5136
+    },
+    {
+      "index": 201,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 32
+    },
+    {
+      "index": 202,
+      "owner": 3,
+      "health": 1000000,
+      "regenPerSecond": 2.7777777,
+      "players": 0
+    },
+    {
+      "index": 203,
+      "owner": 3,
+      "health": 1000000,
+      "regenPerSecond": 5.5555553,
+      "players": 13
+    },
+    {
+      "index": 204,
+      "owner": 3,
+      "health": 1000000,
+      "regenPerSecond": 2.7777777,
+      "players": 3
+    },
+    {
+      "index": 205,
+      "owner": 3,
+      "health": 1000000,
+      "regenPerSecond": 2.7777777,
+      "players": 0
+    },
+    {
+      "index": 206,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 207,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 208,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 209,
+      "owner": 2,
+      "health": 1000000,
+      "regenPerSecond": 4.1666665,
+      "players": 0
+    },
+    {
+      "index": 210,
+      "owner": 2,
+      "health": 1000000,
+      "regenPerSecond": 4.1666665,
+      "players": 0
+    },
+    {
+      "index": 211,
+      "owner": 2,
+      "health": 1000000,
+      "regenPerSecond": 5.5555553,
+      "players": 906
+    },
+    {
+      "index": 212,
+      "owner": 2,
+      "health": 1000000,
+      "regenPerSecond": 4.1666665,
+      "players": 14
+    },
+    {
+      "index": 213,
+      "owner": 2,
+      "health": 1000000,
+      "regenPerSecond": 4.1666665,
+      "players": 0
+    },
+    {
+      "index": 214,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 8.333333,
+      "players": 15
+    },
+    {
+      "index": 215,
+      "owner": 2,
+      "health": 1000000,
+      "regenPerSecond": 4.1666665,
+      "players": 0
+    },
+    {
+      "index": 216,
+      "owner": 2,
+      "health": 1000000,
+      "regenPerSecond": 4.1666665,
+      "players": 0
+    },
+    {
+      "index": 217,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 4.1666665,
+      "players": 17
+    },
+    {
+      "index": 218,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 219,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 220,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 221,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 222,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 223,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 224,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 225,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 226,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 227,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 228,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 229,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 230,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 231,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 232,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 233,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 234,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 235,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 236,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 237,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 238,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 239,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 240,
+      "owner": 3,
+      "health": 1000000,
+      "regenPerSecond": 2.7777777,
+      "players": 1
+    },
+    {
+      "index": 241,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 242,
+      "owner": 3,
+      "health": 1000000,
+      "regenPerSecond": 2.7777777,
+      "players": 1
+    },
+    {
+      "index": 243,
+      "owner": 3,
+      "health": 1000000,
+      "regenPerSecond": 2.7777777,
+      "players": 241
+    },
+    {
+      "index": 244,
+      "owner": 3,
+      "health": 1000000,
+      "regenPerSecond": 2.7777777,
+      "players": 3
+    },
+    {
+      "index": 245,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 2.7777777,
+      "players": 11
+    },
+    {
+      "index": 246,
+      "owner": 3,
+      "health": 1000000,
+      "regenPerSecond": 5.5555553,
+      "players": 440
+    },
+    {
+      "index": 247,
+      "owner": 3,
+      "health": 1000000,
+      "regenPerSecond": 5.5555553,
+      "players": 2
+    },
+    {
+      "index": 248,
+      "owner": 3,
+      "health": 1000000,
+      "regenPerSecond": 2.7777777,
+      "players": 0
+    },
+    {
+      "index": 249,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 105
+    },
+    {
+      "index": 250,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 251,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 252,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 253,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 254,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 255,
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 1388.8889,
+      "players": 0
+    },
+    {
+      "index": 256,
+      "owner": 2,
+      "health": 1000000,
+      "regenPerSecond": 4.1666665,
+      "players": 0
+    },
+    {
+      "index": 257,
+      "owner": 2,
+      "health": 1000000,
+      "regenPerSecond": 4.1666665,
+      "players": 0
+    },
+    {
+      "index": 258,
+      "owner": 2,
+      "health": 1000000,
+      "regenPerSecond": 8.333333,
+      "players": 0
+    },
+    {
+      "index": 259,
+      "owner": 2,
+      "health": 1000000,
+      "regenPerSecond": 4.1666665,
+      "players": 0
+    },
+    {
+      "index": 260,
+      "owner": 3,
+      "health": 1000000,
+      "regenPerSecond": 2.7777777,
+      "players": 0
+    }
+  ],
+  "planetAttacks": [
+    {
+      "source": 129,
+      "target": 171
+    },
+    {
+      "source": 195,
+      "target": 243
+    },
+    {
+      "source": 155,
+      "target": 243
+    },
+    {
+      "source": 154,
+      "target": 156
+    },
+    {
+      "source": 34,
+      "target": 211
+    },
+    {
+      "source": 169,
+      "target": 170
+    },
+    {
+      "source": 214,
+      "target": 171
+    },
+    {
+      "source": 64,
+      "target": 78
+    },
+    {
+      "source": 129,
+      "target": 78
+    },
+    {
+      "source": 169,
+      "target": 78
+    },
+    {
+      "source": 75,
+      "target": 211
+    },
+    {
+      "source": 201,
+      "target": 200
+    },
+    {
+      "source": 245,
+      "target": 246
+    },
+    {
+      "source": 249,
+      "target": 246
+    },
+    {
+      "source": 66,
+      "target": 113
+    },
+    {
+      "source": 170,
+      "target": 169
+    }
+  ],
+  "campaigns": [
+    {
+      "id": 50236,
+      "planetIndex": 171,
+      "type": 0,
+      "count": 2
+    },
+    {
+      "id": 50245,
+      "planetIndex": 243,
+      "type": 0,
+      "count": 7
+    },
+    {
+      "id": 50246,
+      "planetIndex": 156,
+      "type": 0,
+      "count": 3
+    },
+    {
+      "id": 50257,
+      "planetIndex": 211,
+      "type": 0,
+      "count": 5
+    },
+    {
+      "id": 50261,
+      "planetIndex": 170,
+      "type": 0,
+      "count": 15
+    },
+    {
+      "id": 50266,
+      "planetIndex": 78,
+      "type": 0,
+      "count": 12
+    },
+    {
+      "id": 50277,
+      "planetIndex": 200,
+      "type": 0,
+      "count": 4
+    },
+    {
+      "id": 50281,
+      "planetIndex": 246,
+      "type": 0,
+      "count": 5
+    },
+    {
+      "id": 50282,
+      "planetIndex": 113,
+      "type": 0,
+      "count": 5
+    },
+    {
+      "id": 50288,
+      "planetIndex": 169,
+      "type": 0,
+      "count": 19
+    }
+  ],
+  "communityTargets": [],
+  "jointOperations": [
+    {
+      "id": 4528,
+      "planetIndex": 169,
+      "hqNodeIndex": 1
+    }
+  ],
+  "planetEvents": [
+    {
+      "id": 4528,
+      "planetIndex": 169,
+      "eventType": 1,
+      "race": 2,
+      "health": 337961,
+      "maxHealth": 450000,
+      "startTime": 13094260,
+      "expireTime": 13180660,
+      "campaignId": 50288,
+      "jointOperationIds": [
+        4528
+      ]
+    }
+  ],
+  "planetActiveEffects": [
+    {
+      "index": 64,
+      "galacticEffectId": 1177
+    }
+  ],
+  "activeElectionPolicyEffects": [],
+  "globalEvents": [
+    {
+      "eventId": 1499160,
+      "id32": 0,
+      "portraitId32": 0,
+      "title": "SUCCESS",
+      "titleId32": 2998873950,
+      "message": "The vast quantities of Terminids eradicated by the Helldivers has greatly aided the Ministry of Science's Terminid Research Initiative. Though much work remains, our understanding of the most efficacious bug-eradication methodologies has been thoroughly advanced.\n\nOne key ancillary finding was that Terminids produce higher quality E-710 when harvested under extreme duress. This finding will guide future E-710 acquisition policy, assuring our access to uninterrupted FTL travel capabilities.\n\nClose observation of the Terminids did uncover a new behavior: the construction of spore-producing towers, roughly the size of small skyscrapers. This development appears to pose no threat, but will be closely monitored.",
+      "messageId32": 3522066826,
+      "race": 1,
+      "flag": 2,
+      "assignmentId32": 0,
+      "effectIds": [],
+      "planetIndices": []
+    },
+    {
+      "eventId": 1499161,
+      "id32": 0,
+      "portraitId32": 0,
+      "title": "BRIEFING",
+      "titleId32": 2908633975,
+      "message": "Following the valiant defense of <i=1>X-45</i> by the Helldivers, we have maintained a foothold in the <i=1>Ymir Sector</i> despite the Automatons' strenuous efforts to annex it. However, our units remain cut-off from support. Now, the time has come to reverse the strategic situation.\n\nThe Automatons have extended their despotic forces across vast swaths of the galaxy. This avarice has opened up the opportunity to split their forces down the middle, which would throw their cut-off forces into disarray and weaken their defenses for a short time on the cut-off planets.\n\nThe Helldivers are ordered to cut a line through the <i=1>Andromeda Sector</i>, joining our forces and dividing the Automatons' in two. ",
+      "messageId32": 1028646094,
+      "race": 1,
+      "flag": 1,
+      "assignmentId32": 1017087108,
+      "effectIds": [],
+      "planetIndices": []
+    }
+  ],
+  "superEarthWarResults": [],
+  "layoutVersion": 15
+}

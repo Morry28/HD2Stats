@@ -1,0 +1,85 @@
+[
+  {
+    "id32": 1017087108,
+    "progress": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "expiresIn": 437170,
+    "setting": {
+      "type": 4,
+      "overrideTitle": "MAJOR ORDER",
+      "overrideBrief": "Split the Automaton forces in half at the Andromeda Sector.",
+      "taskDescription": "Liberate the designated planets.",
+      "tasks": [
+        {
+          "type": 11,
+          "values": [
+            1,
+            1,
+            200
+          ],
+          "valueTypes": [
+            3,
+            11,
+            12
+          ]
+        },
+        {
+          "type": 11,
+          "values": [
+            1,
+            1,
+            199
+          ],
+          "valueTypes": [
+            3,
+            11,
+            12
+          ]
+        },
+        {
+          "type": 11,
+          "values": [
+            1,
+            1,
+            198
+          ],
+          "valueTypes": [
+            3,
+            11,
+            12
+          ]
+        },
+        {
+          "type": 11,
+          "values": [
+            1,
+            1,
+            113
+          ],
+          "valueTypes": [
+            3,
+            11,
+            12
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "type": 1,
+          "id32": 897894480,
+          "amount": 45
+        }
+      ],
+      "reward": {
+        "type": 1,
+        "id32": 897894480,
+        "amount": 45
+      },
+      "flags": 0
+    }
+  }
+]
