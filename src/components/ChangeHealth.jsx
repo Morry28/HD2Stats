@@ -1,15 +1,14 @@
 import { useState, useEffect } from 'react';
 
-function ChangeHealth(index) {
+function ChangeHealth({index,onHealthChange}) {
     const [planetData, setPlanetData] = useState([]);
     const [percentualDamage, setPercentualDamage] = useState(0);
-
     useEffect(() => {
-        if (index.index === -1) {
+        if (index === -1) {
             console.log('No planet index');
             return;
         }
-        fetch(`https://helldiverstrainingmanual.com/api/v1/war/history/${index.index}`)
+        fetch(`https://helldiverstrainingmanual.com/api/v1/war/history/${index}`)
             .then(response => response.json())
             .then(data => {
                 setPlanetData(data);
@@ -22,12 +21,14 @@ function ChangeHealth(index) {
             const dmg = planetData[12].current_health - planetData[0].current_health;
             const percentualDmg = (dmg || 0) / 10000;
             setPercentualDamage(percentualDmg);
+            onHealthChange(percentualDmg);
+
         }
     }, [planetData]);
 
     return (
         <>
-            <p>{percentualDamage.toFixed(2)}%/h</p>
+            <p>{percentualDamage.toFixed(4)}%/h</p>
         </>
     );
 }

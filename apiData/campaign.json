@@ -1,66 +1,84 @@
 [
   {
+    "planetIndex": 198,
+    "name": "Marfark",
+    "faction": "Automatons",
+    "players": 9561,
+    "health": 661985,
+    "maxHealth": 1000000,
+    "percentage": 33.80149999999999,
+    "defense": false,
+    "biome": {
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 75,
+    "name": "Esker",
+    "faction": "Terminids",
+    "players": 704,
+    "health": 778983,
+    "maxHealth": 1000000,
+    "percentage": 22.101699999999994,
+    "defense": false,
+    "biome": {
+      "slug": "toxic",
+      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 34,
+    "name": "Hellmire",
+    "faction": "Terminids",
+    "players": 581,
+    "health": 793642,
+    "maxHealth": 1000000,
+    "percentage": 20.635800000000003,
+    "defense": false,
+    "biome": {
+      "slug": "desolate",
+      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 169,
     "name": "Estanu",
     "faction": "Terminids",
-    "players": 7302,
-    "health": 324220,
-    "maxHealth": 450000,
-    "percentage": 27.951111111111103,
-    "defense": true,
+    "players": 3995,
+    "health": 955243,
+    "maxHealth": 1000000,
+    "percentage": 4.475699999999989,
+    "defense": false,
     "biome": {
       "slug": "icemoss",
       "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
     },
-    "expireDateTime": 1720857281.049
-  },
-  {
-    "planetIndex": 113,
-    "name": "Aesir Pass",
-    "faction": "Automatons",
-    "players": 19870,
-    "health": 600760,
-    "maxHealth": 1000000,
-    "percentage": 39.924,
-    "defense": false,
-    "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-    },
     "expireDateTime": null
   },
   {
-    "planetIndex": 200,
-    "name": "Matar Bay",
+    "planetIndex": 199,
+    "name": "Martale",
     "faction": "Automatons",
-    "players": 5813,
-    "health": 996527,
+    "players": 3360,
+    "health": 999976,
     "maxHealth": 1000000,
-    "percentage": 0.34729999999998995,
+    "percentage": 0.0023999999999944066,
     "defense": false,
     "biome": {
-      "slug": "highlands",
-      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
+      "slug": "tundra",
+      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
     },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 171,
-    "name": "Gacrux",
-    "faction": "Terminids",
-    "players": 2278,
-    "health": 999991,
-    "maxHealth": 1000000,
-    "percentage": 0.0009000000000014552,
-    "defense": false,
-    "biome": null,
     "expireDateTime": null
   },
   {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 365,
+    "players": 109,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -72,10 +90,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 159,
+    "name": "Choohe",
+    "faction": "Automatons",
+    "players": 43,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 2382,
+    "players": 1928,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -87,40 +120,22 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 170,
-    "name": "Fori Prime",
+    "planetIndex": 171,
+    "name": "Gacrux",
     "faction": "Terminids",
-    "players": 1270,
+    "players": 1045,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
     "defense": false,
-    "biome": {
-      "slug": "canyon",
-      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 211,
-    "name": "Nivel 43",
-    "faction": "Terminids",
-    "players": 940,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-    },
+    "biome": null,
     "expireDateTime": null
   },
   {
     "planetIndex": 243,
     "name": "Vandalon IV",
     "faction": "Automatons",
-    "players": 219,
+    "players": 63,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -135,7 +150,7 @@
     "planetIndex": 246,
     "name": "Vega Bay",
     "faction": "Automatons",
-    "players": 502,
+    "players": 82,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -143,6 +158,21 @@
     "biome": {
       "slug": "winter",
       "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 112,
+    "name": "Vernen Wells",
+    "faction": "Automatons",
+    "players": 206,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "canyon",
+      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
     },
     "expireDateTime": null
   }

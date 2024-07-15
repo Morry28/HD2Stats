@@ -6,6 +6,7 @@ import Campaigns from './components/Campaigns';
 import Canva from './components/Canvas';
 import { MergedFetch } from './helpers/utils.js';
 import Visitor from './components/Visitor';
+import News from './components/News';
 function App() {
   
   MergedFetch();
@@ -19,10 +20,15 @@ function App() {
           <MajorOrder />
         </div>
         <h1 className='flex m-auto text-PM font-bold text-3xl my-8'>
-          Active Campaign
+         All Active Campaign
           </h1>
         <div className=' '>
           <Campaigns />
+        </div>
+        <div className='flex flex-col'>
+        <h1 className='text-PM font-bold text-3xl mt-8 m-auto'>Latest News</h1>
+
+          <News/>
         </div>
         <div className='m-auto bg-BG p-10 relative'>
           <Canva />

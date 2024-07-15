@@ -15,7 +15,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 231
+      "players": 105
     },
     "planetAddition": {
       "index": 0,
@@ -1206,10 +1206,10 @@
     "initialOwner": 2,
     "statusAddition": {
       "index": 34,
-      "owner": 1,
-      "health": 1000000,
+      "owner": 2,
+      "health": 793642,
       "regenPerSecond": 4.1666665,
-      "players": 82
+      "players": 581
     },
     "planetAddition": {
       "index": 34,
@@ -1229,6 +1229,21 @@
           "description": "Planet is ravaged by deadly fire tornadoes"
         }
       ]
+    },
+    "campaignAddition": {
+      "planetIndex": 34,
+      "name": "Hellmire",
+      "faction": "Terminids",
+      "players": 581,
+      "health": 793642,
+      "maxHealth": 1000000,
+      "percentage": 20.635800000000003,
+      "defense": false,
+      "biome": {
+        "slug": "desolate",
+        "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+      },
+      "expireDateTime": null
     }
   },
   {
@@ -2248,7 +2263,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 0,
-      "players": 74
+      "players": 26
     },
     "planetAddition": {
       "index": 64,
@@ -2652,10 +2667,10 @@
     "initialOwner": 1,
     "statusAddition": {
       "index": 75,
-      "owner": 1,
-      "health": 1000000,
+      "owner": 2,
+      "health": 778983,
       "regenPerSecond": 4.1666665,
-      "players": 27
+      "players": 704
     },
     "planetAddition": {
       "index": 75,
@@ -2675,6 +2690,21 @@
           "description": "Violent acid storms reduce visibility"
         }
       ]
+    },
+    "campaignAddition": {
+      "planetIndex": 75,
+      "name": "Esker",
+      "faction": "Terminids",
+      "players": 704,
+      "health": 778983,
+      "maxHealth": 1000000,
+      "percentage": 22.101699999999994,
+      "defense": false,
+      "biome": {
+        "slug": "toxic",
+        "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+      },
+      "expireDateTime": null
     }
   },
   {
@@ -2769,7 +2799,7 @@
       "owner": 2,
       "health": 1000000,
       "regenPerSecond": 5.5555553,
-      "players": 2382
+      "players": 1928
     },
     "planetAddition": {
       "index": 78,
@@ -2790,7 +2820,7 @@
       "planetIndex": 78,
       "name": "Crimsica",
       "faction": "Terminids",
-      "players": 2382,
+      "players": 1928,
       "health": 1000000,
       "maxHealth": 1000000,
       "percentage": 0,
@@ -2822,7 +2852,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 6.9444447,
-      "players": 4
+      "players": 1
     },
     "planetAddition": {
       "index": 79,
@@ -2863,7 +2893,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 2.7777777,
-      "players": 4
+      "players": 0
     },
     "planetAddition": {
       "index": 80,
@@ -3826,7 +3856,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 2
+      "players": 0
     },
     "planetAddition": {
       "index": 107,
@@ -3991,7 +4021,7 @@
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 2.7777777,
-      "players": 12
+      "players": 206
     },
     "planetAddition": {
       "index": 112,
@@ -4007,6 +4037,21 @@
           "description": "Frequent earthquakes stun players and enemies alike."
         }
       ]
+    },
+    "campaignAddition": {
+      "planetIndex": 112,
+      "name": "Vernen Wells",
+      "faction": "Automatons",
+      "players": 206,
+      "health": 1000000,
+      "maxHealth": 1000000,
+      "percentage": 0,
+      "defense": false,
+      "biome": {
+        "slug": "canyon",
+        "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
+      },
+      "expireDateTime": null
     }
   },
   {
@@ -4022,10 +4067,10 @@
     "initialOwner": 1,
     "statusAddition": {
       "index": 113,
-      "owner": 3,
-      "health": 600760,
-      "regenPerSecond": 4.1666665,
-      "players": 19870
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 2.7777777,
+      "players": 74
     },
     "planetAddition": {
       "index": 113,
@@ -4041,21 +4086,6 @@
           "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
         }
       ]
-    },
-    "campaignAddition": {
-      "planetIndex": 113,
-      "name": "Aesir Pass",
-      "faction": "Automatons",
-      "players": 19870,
-      "health": 600760,
-      "maxHealth": 1000000,
-      "percentage": 39.924,
-      "defense": false,
-      "biome": {
-        "slug": "swamp",
-        "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-      },
-      "expireDateTime": null
     }
   },
   {
@@ -4366,7 +4396,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 5.5555553,
-      "players": 10
+      "players": 5
     },
     "planetAddition": {
       "index": 122,
@@ -4430,7 +4460,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 8
+      "players": 1
     },
     "planetAddition": {
       "index": 124,
@@ -4471,7 +4501,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 0,
-      "players": 3
+      "players": 0
     },
     "planetAddition": {
       "index": 125,
@@ -4513,7 +4543,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 6.9444447,
-      "players": 6
+      "players": 4
     },
     "planetAddition": {
       "index": 126,
@@ -4545,7 +4575,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 6.9444447,
-      "players": 9
+      "players": 2
     },
     "planetAddition": {
       "index": 127,
@@ -4616,7 +4646,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 4.1666665,
-      "players": 20
+      "players": 6
     },
     "planetAddition": {
       "index": 129,
@@ -5413,7 +5443,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 3
+      "players": 0
     },
     "planetAddition": {
       "index": 152,
@@ -5453,7 +5483,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 0
+      "players": 1
     },
     "planetAddition": {
       "index": 153,
@@ -5494,7 +5524,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 6
+      "players": 0
     },
     "planetAddition": {
       "index": 154,
@@ -5530,7 +5560,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 7
+      "players": 1
     },
     "planetAddition": {
       "index": 155,
@@ -5567,7 +5597,7 @@
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 2.7777777,
-      "players": 365
+      "players": 109
     },
     "planetAddition": {
       "index": 156,
@@ -5592,7 +5622,7 @@
       "planetIndex": 156,
       "name": "Charbal-VII",
       "faction": "Automatons",
-      "players": 365,
+      "players": 109,
       "health": 1000000,
       "maxHealth": 1000000,
       "percentage": 0,
@@ -5661,7 +5691,7 @@
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 2.7777777,
-      "players": 2
+      "players": 0
     },
     "planetAddition": {
       "index": 158,
@@ -5698,7 +5728,7 @@
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 2.7777777,
-      "players": 0
+      "players": 43
     },
     "planetAddition": {
       "index": 159,
@@ -5718,6 +5748,21 @@
           "description": "Dense sandstorms reduce mobility and greatly reduce visibility for both enemy and friendly units."
         }
       ]
+    },
+    "campaignAddition": {
+      "planetIndex": 159,
+      "name": "Choohe",
+      "faction": "Automatons",
+      "players": 43,
+      "health": 1000000,
+      "maxHealth": 1000000,
+      "percentage": 0,
+      "defense": false,
+      "biome": {
+        "slug": "mesa",
+        "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+      },
+      "expireDateTime": null
     }
   },
   {
@@ -5736,7 +5781,7 @@
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 2.7777777,
-      "players": 3
+      "players": 0
     },
     "planetAddition": {
       "index": 160,
@@ -6028,7 +6073,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 4.1666665,
-      "players": 8
+      "players": 5
     },
     "planetAddition": {
       "index": 168,
@@ -6065,10 +6110,10 @@
     "initialOwner": 2,
     "statusAddition": {
       "index": 169,
-      "owner": 1,
-      "health": 1000000,
-      "regenPerSecond": 0,
-      "players": 7302
+      "owner": 2,
+      "health": 955243,
+      "regenPerSecond": 5.5555553,
+      "players": 3995
     },
     "planetAddition": {
       "index": 169,
@@ -6089,16 +6134,16 @@
       "planetIndex": 169,
       "name": "Estanu",
       "faction": "Terminids",
-      "players": 7302,
-      "health": 324220,
-      "maxHealth": 450000,
-      "percentage": 27.951111111111103,
-      "defense": true,
+      "players": 3995,
+      "health": 955243,
+      "maxHealth": 1000000,
+      "percentage": 4.475699999999989,
+      "defense": false,
       "biome": {
         "slug": "icemoss",
         "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
       },
-      "expireDateTime": 1720857281.049
+      "expireDateTime": null
     }
   },
   {
@@ -6120,7 +6165,7 @@
       "owner": 2,
       "health": 1000000,
       "regenPerSecond": 5.5555553,
-      "players": 1270
+      "players": 26
     },
     "planetAddition": {
       "index": 170,
@@ -6136,21 +6181,6 @@
           "description": "Frequent earthquakes stun players and enemies alike."
         }
       ]
-    },
-    "campaignAddition": {
-      "planetIndex": 170,
-      "name": "Fori Prime",
-      "faction": "Terminids",
-      "players": 1270,
-      "health": 1000000,
-      "maxHealth": 1000000,
-      "percentage": 0,
-      "defense": false,
-      "biome": {
-        "slug": "canyon",
-        "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
-      },
-      "expireDateTime": null
     }
   },
   {
@@ -6169,9 +6199,9 @@
     "statusAddition": {
       "index": 171,
       "owner": 2,
-      "health": 999991,
+      "health": 1000000,
       "regenPerSecond": 4.1666665,
-      "players": 2278
+      "players": 1045
     },
     "planetAddition": {
       "index": 171,
@@ -6184,10 +6214,10 @@
       "planetIndex": 171,
       "name": "Gacrux",
       "faction": "Terminids",
-      "players": 2278,
-      "health": 999991,
+      "players": 1045,
+      "health": 1000000,
       "maxHealth": 1000000,
-      "percentage": 0.0009000000000014552,
+      "percentage": 0,
       "defense": false,
       "biome": null,
       "expireDateTime": null
@@ -6249,7 +6279,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 4.1666665,
-      "players": 228
+      "players": 27
     },
     "planetAddition": {
       "index": 173,
@@ -7027,7 +7057,7 @@
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 6.9444447,
-      "players": 21
+      "players": 3
     },
     "planetAddition": {
       "index": 194,
@@ -7064,7 +7094,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 1
+      "players": 0
     },
     "planetAddition": {
       "index": 195,
@@ -7105,7 +7135,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 1
+      "players": 0
     },
     "planetAddition": {
       "index": 196,
@@ -7143,7 +7173,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 2
+      "players": 0
     },
     "planetAddition": {
       "index": 197,
@@ -7183,9 +7213,9 @@
     "statusAddition": {
       "index": 198,
       "owner": 3,
-      "health": 1000000,
-      "regenPerSecond": 5.5555553,
-      "players": 25
+      "health": 661985,
+      "regenPerSecond": 2.7777777,
+      "players": 9561
     },
     "planetAddition": {
       "index": 198,
@@ -7205,6 +7235,21 @@
           "description": "Intense blizzard reduce mobility and moderately reduce visibility for both enemy and friendly units."
         }
       ]
+    },
+    "campaignAddition": {
+      "planetIndex": 198,
+      "name": "Marfark",
+      "faction": "Automatons",
+      "players": 9561,
+      "health": 661985,
+      "maxHealth": 1000000,
+      "percentage": 33.80149999999999,
+      "defense": false,
+      "biome": {
+        "slug": "winter",
+        "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+      },
+      "expireDateTime": null
     }
   },
   {
@@ -7221,9 +7266,9 @@
     "statusAddition": {
       "index": 199,
       "owner": 3,
-      "health": 1000000,
-      "regenPerSecond": 8.333333,
-      "players": 1
+      "health": 999976,
+      "regenPerSecond": 4.1666665,
+      "players": 3360
     },
     "planetAddition": {
       "index": 199,
@@ -7234,6 +7279,21 @@
         "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
       },
       "environmentals": []
+    },
+    "campaignAddition": {
+      "planetIndex": 199,
+      "name": "Martale",
+      "faction": "Automatons",
+      "players": 3360,
+      "health": 999976,
+      "maxHealth": 1000000,
+      "percentage": 0.0023999999999944066,
+      "defense": false,
+      "biome": {
+        "slug": "tundra",
+        "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
+      },
+      "expireDateTime": null
     }
   },
   {
@@ -7253,10 +7313,10 @@
     "initialOwner": 1,
     "statusAddition": {
       "index": 200,
-      "owner": 3,
-      "health": 996527,
-      "regenPerSecond": 2.7777777,
-      "players": 5813
+      "owner": 1,
+      "health": 1000000,
+      "regenPerSecond": 0.00027777778,
+      "players": 274
     },
     "planetAddition": {
       "index": 200,
@@ -7272,21 +7332,6 @@
           "description": "Torrential rainstorms reduce visibility"
         }
       ]
-    },
-    "campaignAddition": {
-      "planetIndex": 200,
-      "name": "Matar Bay",
-      "faction": "Automatons",
-      "players": 5813,
-      "health": 996527,
-      "maxHealth": 1000000,
-      "percentage": 0.34729999999998995,
-      "defense": false,
-      "biome": {
-        "slug": "highlands",
-        "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
-      },
-      "expireDateTime": null
     }
   },
   {
@@ -7308,7 +7353,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 32
+      "players": 8
     },
     "planetAddition": {
       "index": 201,
@@ -7384,7 +7429,7 @@
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 5.5555553,
-      "players": 23
+      "players": 8
     },
     "planetAddition": {
       "index": 203,
@@ -7677,7 +7722,7 @@
       "owner": 2,
       "health": 1000000,
       "regenPerSecond": 5.5555553,
-      "players": 940
+      "players": 37
     },
     "planetAddition": {
       "index": 211,
@@ -7693,21 +7738,6 @@
           "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
         }
       ]
-    },
-    "campaignAddition": {
-      "planetIndex": 211,
-      "name": "Nivel 43",
-      "faction": "Terminids",
-      "players": 940,
-      "health": 1000000,
-      "maxHealth": 1000000,
-      "percentage": 0,
-      "defense": false,
-      "biome": {
-        "slug": "swamp",
-        "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-      },
-      "expireDateTime": null
     }
   },
   {
@@ -7726,7 +7756,7 @@
       "owner": 2,
       "health": 1000000,
       "regenPerSecond": 4.1666665,
-      "players": 12
+      "players": 9
     },
     "planetAddition": {
       "index": 212,
@@ -7800,7 +7830,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 8.333333,
-      "players": 23
+      "players": 11
     },
     "planetAddition": {
       "index": 214,
@@ -7910,7 +7940,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 4.1666665,
-      "players": 14
+      "players": 6
     },
     "planetAddition": {
       "index": 217,
@@ -8670,7 +8700,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 1
+      "players": 0
     },
     "planetAddition": {
       "index": 238,
@@ -8701,7 +8731,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 0
+      "players": 1
     },
     "planetAddition": {
       "index": 239,
@@ -8815,7 +8845,7 @@
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 2.7777777,
-      "players": 1
+      "players": 0
     },
     "planetAddition": {
       "index": 242,
@@ -8856,7 +8886,7 @@
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 2.7777777,
-      "players": 219
+      "players": 63
     },
     "planetAddition": {
       "index": 243,
@@ -8881,7 +8911,7 @@
       "planetIndex": 243,
       "name": "Vandalon IV",
       "faction": "Automatons",
-      "players": 219,
+      "players": 63,
       "health": 1000000,
       "maxHealth": 1000000,
       "percentage": 0,
@@ -8912,7 +8942,7 @@
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 2.7777777,
-      "players": 4
+      "players": 1
     },
     "planetAddition": {
       "index": 244,
@@ -8950,7 +8980,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 2.7777777,
-      "players": 3
+      "players": 2
     },
     "planetAddition": {
       "index": 245,
@@ -8992,7 +9022,7 @@
       "owner": 3,
       "health": 1000000,
       "regenPerSecond": 5.5555553,
-      "players": 502
+      "players": 82
     },
     "planetAddition": {
       "index": 246,
@@ -9017,7 +9047,7 @@
       "planetIndex": 246,
       "name": "Vega Bay",
       "faction": "Automatons",
-      "players": 502,
+      "players": 82,
       "health": 1000000,
       "maxHealth": 1000000,
       "percentage": 0,
@@ -9114,7 +9144,7 @@
       "owner": 1,
       "health": 1000000,
       "regenPerSecond": 1388.8889,
-      "players": 111
+      "players": 22
     },
     "planetAddition": {
       "index": 249,
@@ -9486,7 +9516,7 @@
       "owner": 2,
       "health": 1000000,
       "regenPerSecond": 4.1666665,
-      "players": 2
+      "players": 1
     },
     "planetAddition": {
       "index": 259,

@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import diver from '../assets/diver.svg';
 import Terminids from '../assets/Terminids.png';
 import Automatons from '../assets/Automatons.png';
@@ -8,13 +8,24 @@ import defense from '../assets/defence.png';
 import ChangeHealth from './ChangeHealth';
 
 function Bar({ planet }) {
+    const [loosing, setLoosing] = useState(false);
+
+    const handleHealthChange = (healthChange) => {
+        if (healthChange < 0) {
+            setLoosing(true);
+        } else {
+            setLoosing(false);
+        }
+    };
+    
+
     const defaultPlanet = {
         players: 0,
         defense: "no",
         health: 0,
         maxHealth: 0,
         percentage: 0,
-        planetIndex:-1,
+        planetIndex: -1,
     };
 
     const factions = {
@@ -51,16 +62,22 @@ function Bar({ planet }) {
                         :
                         (<span></span>)
                 }
-                <img src={currentPlanet.defense===true ? defense : attack} className="w-6" alt="defense/attack" />
+                <img src={currentPlanet.defense === true ? defense : attack} className="w-6" alt="defense/attack" />
             </div>
             <div className='absolute w-full flex justify-start -translate-y-8 gap-2 p-2'>
                 <p>{currentPlanet.percentage.toFixed(2)}%</p>
             </div>
             <div className='absolute w-full flex justify-end -translate-y-8 gap-2 p-2'>
-                {currentPlanet.planetIndex?
-            (<ChangeHealth index={currentPlanet.planetIndex||-1}/>)
-            :null
+                {currentPlanet.planetIndex ?
+                    (<ChangeHealth index={currentPlanet.planetIndex || -1} onHealthChange={handleHealthChange} />)
+                    : null
                 }</div>
+
+            {loosing ?
+                (<div  className='absolute w-full flex justify-center -translate-y-24 '>
+                    <span className='p-3  bg-BG font-semibold text-rose-600 border-rose-600 border-2 border-dashed'>Loosing !</span>
+                </div>) : null
+            }
             <div className="w-full bg-SC h-2">
                 <div
                     className="bg-red-500 h-4"
