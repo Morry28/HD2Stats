@@ -5,7 +5,6 @@ import MajorOrder from './components/MajorOrder';
 import Campaigns from './components/Campaigns';
 import Canva from './components/Canvas';
 import { MergedFetch } from './helpers/utils.js';
-import Visitor from './components/Visitor';
 import News from './components/News';
 function App() {
   
@@ -13,7 +12,7 @@ function App() {
 
   return (
 
-    <div className="h-full  ">
+    <div className="h-full  w-full">
       <Header logo={logo} />
       <div className="bg-BG h-full flex flex-col">
         <div className=''>
@@ -30,11 +29,10 @@ function App() {
 
           <News/>
         </div>
-        <div className='m-auto bg-BG p-10 relative'>
+        <div className='m-auto bg-BG p-10 relative md:block hidden'>
           <Canva />
         </div>
       </div>
-<Visitor/>
     </div>
 
   );

@@ -36,7 +36,6 @@ const Planet = ({ type }) => {
 
 const TestBlock = ({biome}) => {
   const planetType = biome; 
-  console.log(planetType);
   return (
     <Canvas>
       <ambientLight intensity={0.5} />

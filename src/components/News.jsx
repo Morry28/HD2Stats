@@ -7,7 +7,6 @@ function News() {
             fetch('http://localhost:4000/data/news')
                 .then(response => response.json())
                 .then(data => {
-                    console.log(data);
                     const sortedData = data.sort((a, b) => b.id - a.id);
                     setNews(sortedData[0]);
                 })

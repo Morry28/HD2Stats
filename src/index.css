@@ -5,6 +5,7 @@
 :root {
 color:aliceblue;
 font-family: sans-serif;
+width: 100%;
 }
 
 body {
@@ -65,4 +66,13 @@ code {
 /* Handle on hover */
 *::-webkit-scrollbar-thumb:hover {
   background-color: #777;
+}
+@media screen and (max-width:600px) {
+ .HeaderPhone p{
+  font-size: small;
+
+}
+  
+
+
 }

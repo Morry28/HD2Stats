@@ -24,7 +24,7 @@ function Bar({ planet }) {
         defense: "no",
         health: 0,
         maxHealth: 0,
-        percentage: 0,
+        percentage: 100,
         planetIndex: -1,
     };
 

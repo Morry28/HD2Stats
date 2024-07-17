@@ -22,7 +22,6 @@ const endpoints = {
   planets: 'https://helldiverstrainingmanual.com/api/v1/planets'
 };
 
-// Fetch data from an API and save to a JSON file
 const fetchDataAndSave = async (url, fileName) => {
   try {
     const response = await axios.get(url);
@@ -41,7 +40,6 @@ const fetchDataAndSave = async (url, fileName) => {
   }
 };
 
-// Fetch data from all endpoints and save to JSON files
 const fetchAllDataAndSave = () => {
   Object.keys(endpoints).forEach((key) => {
     fetchDataAndSave(endpoints[key], `${key}.json`);
@@ -50,60 +48,11 @@ const fetchAllDataAndSave = () => {
   setTimeout(() => mergeData(), 5000);
 };
 
-// Schedule the fetchAllDataAndSave function to run every minute
+// run every minute
 cron.schedule('* * * * *', fetchAllDataAndSave);
-cron.schedule('30 * * * *', saveCampaign);
-cron.schedule('0 * * * *', saveCampaign2);
 
-// Fetch data immediately when the server starts
 fetchAllDataAndSave();
 
-function saveCampaign() {
-  const apiDataFolder = './apiData';
-  const jsonCompare = './jsonCompare';
-  const campaignJson = JSON.parse(fs.readFileSync(path.join(apiDataFolder, 'campaign.json'), 'utf8'));
-
-  const filePath = path.join(jsonCompare, `campaign30.json`);
-  fs.writeFile(filePath, JSON.stringify(campaignJson, null, 2), 'utf8', (err) => {
-    if (err) {
-      console.error(`Error writing data to ${filePath}:`, err);
-    } else {
-      console.log(`Data saved successfully to ${filePath}`);
-    }
-  });
-}
-
-function saveCampaign2() {
-  const apiDataFolder = './apiData';
-  const jsonCompare = './jsonCompare';
-
-  const campaign30 = JSON.parse(fs.readFileSync(path.join(jsonCompare, 'campaign30.json'), 'utf8'));
-  const lastCampaign = JSON.parse(fs.readFileSync(path.join(apiDataFolder, 'campaign.json'), 'utf8'));
-
-  if (!campaign30 || !lastCampaign) return;
-  let comparedJson = campaign30.map((info) => {
-    const sameIndexOtherJSON = campaign30.find((last) => last.planetIndex === info.planetIndex);
-
-    if (sameIndexOtherJSON.percentage && info.percentage) {
-      const percentage1 = info.percentage;
-      const percentage2 = sameIndexOtherJSON.percentage;
-      const percentageChange30Min = percentage2 - percentage1;
-      const percentageChangePerHour = percentageChange30Min * 2;
-
-      return { ...info, ...{ percentageChangePerHour } };
-    } 
-return info;
-  })
-
-  const filePath = path.join(jsonCompare, `campaignCompared.json`);
-  fs.writeFile(filePath, JSON.stringify(comparedJson, null, 2), 'utf8', (err) => {
-    if (err) {
-      console.error(`Error writing data to ${filePath}:`, err);
-    } else {
-      console.log(`Data saved successfully to ${filePath}`);
-    }
-  });
-}
 function mergeData(dest = 'merged') {
   const apiDataFolder = './apiData';
 
@@ -129,12 +78,6 @@ function mergeData(dest = 'merged') {
 
     return { ...info, ...{ statusAddition }, ...{ planetAddition }, ...{ campaignAddition }, index };
   });
-  /*mergedJson = mergedJson.map((info) => {
-    const newAddition = Object.entries(planetsJson).find(([key, value]) => key === info.planet);
-    console.log(newAddition);
-    return {...info, ...newAddition};
-  });*/
-
 
   const filePath = path.join(apiDataFolder, `${dest}.json`);
   fs.writeFile(filePath, JSON.stringify(mergedJson, null, 2), 'utf8', (err) => {
@@ -149,7 +92,7 @@ function mergeData(dest = 'merged') {
 
 
 
-// Set up GET endpoints for all JSON files
+// GET endpoints 
 Object.keys(endpoints).forEach((key) => {
   app.get(`/data/${key}`, (req, res) => {
     const filePath = path.join(apiDataFolder, `${key}.json`);

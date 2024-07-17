@@ -11,13 +11,13 @@ function PlanetTab(allCampaign){
     return (
         <>{campaigns.allCampaign && campaigns.allCampaign.length > 0 
             ? campaigns.allCampaign.map(p => (
-                <div key={p.id} className="flex-shrink-0 w-fit h-full m-auto relative">
+                <div key={p.id} className="md:flex-shrink-0 my-2 md:my-0 w-fit h-full m-auto relative">
                     
                     <div className="truncate h-12 bg-BG content-center flex border-stone-700 border-dashed border text-ACC justify-around">
                         <p className="p-3 font-bold">{p.planetAddition.name}</p>
                         <p className="p-3 font-semibold">Sector: {p.planetAddition.sector}</p>
                     </div>
-                    <div className="m-auto h-fit bg-SC ">
+                    <div className="m-auto md:h-fit bg-SC ">
                         <TestBlock biome={p.planetAddition.biome ? p.planetAddition.biome.slug : ''} />
                         <Bar planet={p.campaignAddition} />
                     </div>
